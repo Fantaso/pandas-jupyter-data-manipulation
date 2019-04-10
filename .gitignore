@@ -5,3 +5,4 @@
 *.xls#
 *.xlsx#
 .ipynb_checkpoints/
+private/
